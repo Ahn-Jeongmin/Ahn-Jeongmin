@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=안정&postId=12)
+
+
 ![Jeongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahn-Jeongmin&show_icons=true&theme=dracula)
