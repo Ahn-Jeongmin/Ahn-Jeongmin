@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=tingmins-swdeliveryservice)](https://github.com/loosie/github-readme-tistory-card)
 
 ![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=tingmins-swdeliveryservice&postId=12)
 
