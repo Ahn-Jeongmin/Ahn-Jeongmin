@@ -1,4 +1,4 @@
-# ฅ This is Ahn Jeongmin's Git, Welcome!  ฅ  ꙳ 𓂃 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAhn-Jeongmin&count_bg=%2311AC78&title_bg=%23555555&icon=github.svg&icon_color=%231DB67F&title=%E0%B8%85+Hits+%E0%B8%85&edge_flat=false)](https://hits.seeyoufarm.com) 
+ฅ This is Ahn Jeongmin's Git, Welcome!  ฅ  ꙳ 𓂃 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAhn-Jeongmin&count_bg=%2311AC78&title_bg=%23555555&icon=github.svg&icon_color=%231DB67F&title=%E0%B8%85+Hits+%E0%B8%85&edge_flat=false)](https://hits.seeyoufarm.com) 
             
 ## 🌱 About me
 <br> 중앙대학교 4학년 재학생 안정민입니다. 영어영문학을 전공하고 있으며, 소프트웨어공학을 복수전공하고 있습니다. </br>
