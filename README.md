@@ -3,31 +3,24 @@
 #### 🌱 About me
 <br> 중앙대학교 4학년 재학생 안정민입니다. 영어영문학을 전공하고 있으며, 소프트웨어공학을 복수전공하고 있습니다. </br>
 기계 학습과 인공지능의 문제점과 해결방안에 큰 관심과 열정을 가지고 있고, 인공지능을 통해 세상에 새로운 삶의 가치를 선사하고 싶습니다.
-####
-####
-####
+#### 
+#### 
 #### 🌱 Tech Stack
-
-
+<br>Programming Language :  </br>
+<br>  </br>
+<br>  </br>
 
 #### 🌱 I’m currently interested in...
 #### → Machine Learning & Deep Learning
 #### → Natural Language Processing & Generative AI
 #### → Solutions for Hallucination & RAG & LoRA adapter
-<!--
-**Ahn-Jeongmin/Ahn-Jeongmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💻 DEV's log 
+<div style="display:flex; flex-direction:row;">
+    <a href="https://tingmins-swdeliveryservice.tistory.com/">
+        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+    </a>
+    
 
 
 
