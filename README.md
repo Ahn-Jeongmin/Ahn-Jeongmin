@@ -24,4 +24,5 @@
     
 <br>
 <br>
-[![Jeongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahn-Jeongmin)](https://github.com/anuraghazra/github-readme-stats)
+[![Jeongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahn-Jeongmin&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahn-Jeongmin&layout=compact&theme=dracula)
