@@ -1,5 +1,13 @@
-## This is Ahn Jeongmin's Git  ʕ·ᴥ·　ʔ  
+## ฅ This is Ahn Jeongmin's Git, Welcome!  ฅ
 
+🌱 About me
+
+🌱 I’m currently interested in...
+→ Machine Learning & Deep Learning
+→ Natural Language Processing
+→ Generative AI & LLM
+→ LoRA adapter
+→ Solutions for Hallucination & RAG
 <!--
 **Ahn-Jeongmin/Ahn-Jeongmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
