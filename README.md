@@ -30,4 +30,5 @@ I’m currently interested in...<br>
 </a>
 
 <br>  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jordie0209)](https://solved.ac/jordie0209/)
+<br>  
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jordie0209)](https://solved.ac/jordie0209/)
