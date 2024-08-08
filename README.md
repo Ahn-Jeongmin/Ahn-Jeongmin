@@ -3,10 +3,9 @@
 #### 🌱 About me
 <br> 중앙대학교 4학년 재학생 안정민입니다. 영어영문학을 전공하고 있으며, 소프트웨어공학을 복수전공하고 있습니다. </br>
 기계 학습과 인공지능의 문제점과 해결방안에 큰 관심과 열정을 가지고 있고, 인공지능을 통해 세상에 새로운 삶의 가치를 선사하고 싶습니다.
-#### 
 <br>  </br>
 #### 🌱 Tech Stack
-<br>Programming Language :  </br>
+<br>Programming Language : <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">  </br>
 <br>  </br>
 <br>  </br>
 
@@ -21,9 +20,6 @@
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
     
-
-
-
-  
-
+<br>
+<br>
 ![Jeongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahn-Jeongmin&show_icons=true&theme=dracula)
