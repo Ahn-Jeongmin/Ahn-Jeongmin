@@ -4,8 +4,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahn-Jeongmin&layout=compact&theme=dracula)
 #
 ## 🌱 About me
-<br> 중앙대학교 4학년 재학생 안정민입니다. 영어영문학을 전공하고 있으며, 소프트웨어공학을 복수전공하고 있습니다. </br>
-기계 학습과 인공지능의 문제점과 해결방안에 큰 관심과 열정을 가지고 있고, 인공지능을 통해 세상에 새로운 삶의 가치를 선사하고 싶습니다.
+<br> I'm Ahn Jeongmin, a senior student at CAU, Seoul. I am majoring in English Language and Literature and double-majoring in Software Engineering. </br>
+I have a strong interest and passion for the challenges and solutions in ML and AI, and I aspire to bring new life values to the world through AI.
 <br>  
 ## 🌱 Tech Stack
 - ML/AI Tools : <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white"><img src="https://img.shields.io/badge/tensorflow-FF6F00?style=plastic&logo=tensorflow&logoColor=white"><img src="https://img.shields.io/badge/scikitlearn-F7931E?style=plastic&logo=scikitlearn&logoColor=white"><img src="https://img.shields.io/badge/huggingface-FFD21E?style=plastic&logo=huggingface&logoColor=white">
