@@ -1,13 +1,12 @@
 ## ฅ This is Ahn Jeongmin's Git, Welcome!  ฅ
 
 #### 🌱 About me
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/22D172?style=flat&logo=gmail&logoColor=EA4335"/></a>
 
 #### 🌱 I’m currently interested in...
 #### → Machine Learning & Deep Learning
-#### → Natural Language Processing
-#### → Generative AI & LLM
-#### → LoRA adapter
-#### → Solutions for Hallucination & RAG
+#### → Natural Language Processing & Generative AI
+#### → Solutions for Hallucination & RAG & LoRA adapter
 <!--
 **Ahn-Jeongmin/Ahn-Jeongmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
