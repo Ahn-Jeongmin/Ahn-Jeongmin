@@ -19,11 +19,13 @@ I’m currently interested in...<br>
 - Programming : <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
 - Collaboration tool : <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"><br>  
 
-## 🌱 Experiences
+## 🌱 Experiences & Awards
 - Tmaxsoft Internship Plaform Engineering Part AI Reseacher (2024.07 ~ 2024.08)
 - Naver AD Relevance Part Chatbot PT (2024.01 ~ 2024.03)
 - AIH Undergraduate Student Researcher (2023.03 ~ 2024.02)
-
+<br>
+- 🏆AIH 2024 Monthly Symposium Undergraduate Research Presentation Conference  <Outstanding Research Award> Winner
+- 🏆Naver Connect SW Education Completion Ceremony <Outstanding Mentoring Award>
 ## 🌱 DEV's log 
 <a href="https://tingmins-swdeliveryservice.tistory.com/">
         <img src="https://img.shields.io/badge/Tistory-EF3939?style=for-the-badge&logo=Tistory&logoColor=white"> 
