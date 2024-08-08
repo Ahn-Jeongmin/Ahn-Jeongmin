@@ -32,5 +32,6 @@ I’m currently interested in...<br>
 <br>  
 <br>  
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jordie0209)](https://solved.ac/jordie0209)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jordie0209)](https://solved.ac/jordie0209/)
+
 
