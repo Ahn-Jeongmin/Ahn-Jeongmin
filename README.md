@@ -14,10 +14,10 @@ I’m currently interested in...<br>
 → Solutions for Hallucination & RAG & LoRA adapter<br> 
 
 ## 🌱 Tech Stack
-- ML/AI Tools : <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=plastic&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=plastic&logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/huggingface-FFD21E?style=plastic&logo=huggingface&logoColor=white">
-- Database : <img src="https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/elasticsearch-005571?style=plastic&logo=elasticsearch&logoColor=white">
-- Programming : <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/linux-FCC624?style=plastic&logo=linux&logoColor=white">
-- Collaboration tool : <img src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/confluence-172B4D?style=plastic&logo=confluence&logoColor=white"><br>  
+- ML/AI Tools : <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"><img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"><img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"><img src="https://img.shields.io/badge/huggingface-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white">
+- Database : <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
+- Programming : <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"><img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
+- Collaboration tool : <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"><br>  
 
 ## 🌱 Experiences
 - AIH Undergraduate Student Researcher (2023.03 ~ 2024.02)
@@ -29,3 +29,5 @@ I’m currently interested in...<br>
         <img src="https://img.shields.io/badge/Tistory-EF3939?style=for-the-badge&logo=Tistory&logoColor=white"> 
 </a>
 
+<br>  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jordie0209)](https://solved.ac/jordie0209/)
