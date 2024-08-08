@@ -29,9 +29,8 @@ I’m currently interested in...<br>
         <img src="https://img.shields.io/badge/Tistory-EF3939?style=for-the-badge&logo=Tistory&logoColor=white"> 
 </a>
 
-<br>  
-<br>  
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jordie0209)](https://solved.ac/jordie0209/)
+# 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jordie0209)](https://solved.ac/jordie0209/)
+
 
 
