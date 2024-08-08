@@ -20,9 +20,9 @@ I’m currently interested in...<br>
 - Collaboration tool : <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"><br>  
 
 ## 🌱 Experiences
-- AIH Undergraduate Student Researcher (2023.03 ~ 2024.02)
-- Naver AD Relevance Part Chatbot PT (2024.01 ~ 2024.03)
 - Tmaxsoft Internship Plaform Engineering Part AI Reseacher (2024.07 ~ 2024.08)
+- Naver AD Relevance Part Chatbot PT (2024.01 ~ 2024.03)
+- AIH Undergraduate Student Researcher (2023.03 ~ 2024.02)
 
 ## 🌱 DEV's log 
 <a href="https://tingmins-swdeliveryservice.tistory.com/">
