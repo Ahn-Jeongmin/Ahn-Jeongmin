@@ -1,8 +1,8 @@
 ## ฅ This is Ahn Jeongmin's Git, Welcome!  ฅ
 
-🌱 About me
+#### 🌱 About me
 
-####🌱 I’m currently interested in...
+#### 🌱 I’m currently interested in...
 #### → Machine Learning & Deep Learning
 #### → Natural Language Processing
 #### → Generative AI & LLM
