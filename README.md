@@ -19,7 +19,7 @@
 #### → Natural Language Processing & Generative AI
 #### → Solutions for Hallucination & RAG & LoRA adapter
 <br> 
-## 💻 DEV's log 
+## DEV's log 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://tingmins-swdeliveryservice.tistory.com/">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
