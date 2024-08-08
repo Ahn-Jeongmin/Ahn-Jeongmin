@@ -4,7 +4,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahn-Jeongmin&layout=compact&theme=dracula)
 #
 ## 🌱 About me
-<br> I'm Ahn Jeongmin, a senior student at CAU, Seoul. I am majoring in English Language and Literature and double-majoring in Software Engineering. </br>
+<br> I'm Ahn Jeongmin, a senior student at CAU, Seoul. I'm majoring in English Language and Literature & Software Engineering. </br>
 I have a strong interest and passion for the challenges and solutions in ML and AI, and I aspire to bring new life values to the world through AI.
 <br>  
 ## 🌱 Tech Stack
