@@ -24,4 +24,4 @@
     
 <br>
 <br>
-[![Jeongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahn-Jeongmin&include_all_commits=true&theme=dracula&hide_border=true&count_private=true)]
+[![Jeongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahn-Jeongmin&include_all_commits=true&theme=dracula&hide_border=true&count_private=true)](https://github.com/Ahn-Jeongmin/github-readme-stats)
