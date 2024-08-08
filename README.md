@@ -1,4 +1,4 @@
-## Hi there 👋
+## This is Ahn Jeongmin's Git  ʕ·ᴥ·　ʔ  
 
 <!--
 **Ahn-Jeongmin/Ahn-Jeongmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
