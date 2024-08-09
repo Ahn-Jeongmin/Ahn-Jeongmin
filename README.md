@@ -14,10 +14,10 @@ I’m currently interested in...<br>
 → Solutions for Hallucination & RAG & LoRA adapter<br> 
 
 ## 🌱 Tech Stack
-- ML/AI Tools : <img src="https://img.shields.io/badge/pytorch-273849?style=for-the-badge&logo=pytorch&logoColor=EE4C2C">&nbsp;<img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/huggingface-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white">
-- Database : <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
-- Programming : <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
-- Collaboration tool : <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"><br>  
+- ML/AI Tools : <img src="https://img.shields.io/badge/pytorch-273849?style=for-the-badge&logo=pytorch&logoColor=EE4C2C">&nbsp;<img src="https://img.shields.io/badge/tensorflow-273849?style=for-the-badge&logo=tensorflow&logoColor=FF6F00">&nbsp;<img src="https://img.shields.io/badge/scikitlearn-273849?style=for-the-badge&logo=scikitlearn&logoColor=F7931E">&nbsp;<img src="https://img.shields.io/badge/huggingface-273849?style=for-the-badge&logo=huggingface&logoColor=FFD21E">
+- Database : <img src="https://img.shields.io/badge/mysql-273849?style=for-the-badge&logo=mysql&logoColor=4479A1">&nbsp;<img src="https://img.shields.io/badge/elasticsearch-273849?style=for-the-badge&logo=elasticsearch&logoColor=005571">
+- Programming : <img src="https://img.shields.io/badge/python-273849?style=for-the-badge&logo=python&logoColor=3776AB">&nbsp;<img src="https://img.shields.io/badge/Java-273849?style=for-the-badge&logo=Java&logoColor=007396">&nbsp;<img src="https://img.shields.io/badge/linux-273849?style=for-the-badge&logo=linux&logoColor=FCC624">
+- Collaboration tool : <img src="https://img.shields.io/badge/github-273849?style=for-the-badge&logo=github&logoColor=181717">&nbsp;<img src="https://img.shields.io/badge/confluence-273849?style=for-the-badge&logo=confluence&logoColor=172B4D"><br>  
 
 ## 🌱 Experiences & Awards
 - Tmaxsoft Internship Plaform Engineering Part AI Reseacher (2024.07 ~ 2024.08)
