@@ -28,7 +28,7 @@ I’m currently interested in...<br>
 
 ## 🌱 DEV's log 
 <a href="https://tingmins-swdeliveryservice.tistory.com/">
-        <img src="https://img.shields.io/badge/Tistory-EF3939?style=for-the-badge&logo=Tistory&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Tistory-74848c?style=for-the-badge&logo=Tistory&logoColor=EF3939"> 
 </a>
 
 # 
