@@ -14,10 +14,10 @@ I’m currently interested in...<br>
 → Solutions for Hallucination & RAG & LoRA adapter<br> 
 
 ## 🌱 Tech Stack
-- ML/AI Tools : <img src="https://img.shields.io/badge/pytorch-74848c?style=for-the-badge&logo=pytorch&logoColor=EE4C2C">&nbsp;<img src="https://img.shields.io/badge/tensorflow-74848c?style=for-the-badge&logo=tensorflow&logoColor=FF6F00">&nbsp;<img src="https://img.shields.io/badge/scikitlearn-74848c?style=for-the-badge&logo=scikitlearn&logoColor=F7931E">&nbsp;<img src="https://img.shields.io/badge/huggingface-74848c?style=for-the-badge&logo=huggingface&logoColor=FFD21E">
-- Database : <img src="https://img.shields.io/badge/mysql-74848c?style=for-the-badge&logo=mysql&logoColor=172B4D">&nbsp;<img src="https://img.shields.io/badge/elasticsearch-74848c?style=for-the-badge&logo=elasticsearch&logoColor=005571">
-- Programming : <img src="https://img.shields.io/badge/python-74848c?style=for-the-badge&logo=python&logoColor=3776AB">&nbsp;<img src="https://img.shields.io/badge/Java-74848c?style=for-the-badge&logo=Java&logoColor=007396">&nbsp;<img src="https://img.shields.io/badge/linux-74848c?style=for-the-badge&logo=linux&logoColor=FCC624">
-- Collaboration tool : <img src="https://img.shields.io/badge/github-74848c?style=for-the-badge&logo=github&logoColor=181717">&nbsp;<img src="https://img.shields.io/badge/confluence-74848c?style=for-the-badge&logo=confluence&logoColor=172B4D"><br>  
+- ML/AI Tools : <img src="https://img.shields.io/badge/pytorch-eef1f4?style=for-the-badge&logo=pytorch&logoColor=EE4C2C">&nbsp;<img src="https://img.shields.io/badge/tensorflow-eef1f4?style=for-the-badge&logo=tensorflow&logoColor=FF6F00">&nbsp;<img src="https://img.shields.io/badge/scikitlearn-eef1f4?style=for-the-badge&logo=scikitlearn&logoColor=F7931E">&nbsp;<img src="https://img.shields.io/badge/huggingface-eef1f4?style=for-the-badge&logo=huggingface&logoColor=FFD21E">
+- Database : <img src="https://img.shields.io/badge/mysql-eef1f4?style=for-the-badge&logo=mysql&logoColor=172B4D">&nbsp;<img src="https://img.shields.io/badge/elasticsearch-eef1f4?style=for-the-badge&logo=elasticsearch&logoColor=005571">
+- Programming : <img src="https://img.shields.io/badge/python-eef1f4?style=for-the-badge&logo=python&logoColor=3776AB">&nbsp;<img src="https://img.shields.io/badge/Java-eef1f4?style=for-the-badge&logo=Java&logoColor=007396">&nbsp;<img src="https://img.shields.io/badge/linux-eef1f4?style=for-the-badge&logo=linux&logoColor=FCC624">
+- Collaboration tool : <img src="https://img.shields.io/badge/github-eef1f4?style=for-the-badge&logo=github&logoColor=181717">&nbsp;<img src="https://img.shields.io/badge/confluence-eef1f4?style=for-the-badge&logo=confluence&logoColor=172B4D"><br>  
 
 ## 🌱 Experiences & Awards
 - Tmaxsoft Internship Plaform Engineering Part AI Reseacher (2024.07 ~ 2024.08)
@@ -28,7 +28,7 @@ I’m currently interested in...<br>
 
 ## 🌱 DEV's log 
 <a href="https://tingmins-swdeliveryservice.tistory.com/">
-        <img src="https://img.shields.io/badge/Tistory-74848c?style=for-the-badge&logo=Tistory&logoColor=EF3939"> 
+        <img src="https://img.shields.io/badge/Tistory-eef1f4?style=for-the-badge&logo=Tistory&logoColor=EF3939"> 
 </a>
 
 # 
