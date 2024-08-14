@@ -32,8 +32,7 @@ I’m currently interested in...<br>
         <img src="https://img.shields.io/badge/Tistory-eef1f4?style=for-the-badge&logo=Tistory&logoColor=EF3939"> 
 </a>
 
-- Programming Problem Solve log<br>
-&nbsp;
+##
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jordie0209)](https://solved.ac/jordie0209/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=jordie0209&theme=warm)
 
