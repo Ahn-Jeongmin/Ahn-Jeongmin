@@ -22,9 +22,9 @@ I’m currently interested in...<br>
 ## 🌱 Experiences & Awards
 - Tmaxsoft Internship Plaform Engineering Part AI Reseacher (2024.07 ~ 2024.08)
 - Naver AD Relevance Part Chatbot PT (2024.01 ~ 2024.03)
-- AIH Undergraduate Student Researcher (2023.03 ~ 2024.02)
-- 🏆AIH 2024 Monthly Symposium Undergraduate Research Presentation Conference  "Outstanding Research Award"
-- 🏆Naver Connect SW Education Completion Ceremony "Outstanding Mentoring Award"
+- AIH Undergraduate Student Researcher (2023.03 ~ 2024.02)<br>
+  🏆AIH 2024 Monthly Symposium Undergraduate Research Presentation Conference  "Outstanding Research Award"<br>
+ 🏆Naver Connect SW Education Completion Ceremony "Outstanding Mentoring Award"
 
 ## 🌱 DEV's log 
 - Tistory DEV Blog
