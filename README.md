@@ -8,7 +8,10 @@
 ## 🌱 About me
 
 ### ㆍ Education<br> 
-→ Majoring English Literature and Language & Computer Science Engineering in ChungAng University, Seoul (2021.03 - 2025.08) <br> 
+→ ChungAng University, Seoul (2021.03 - 2025.08) <br> 
+Bachelor of Arts in English Literature and Language<br> 
+Bachelor of Science in Computer Science and Engineering<br> 
+
 → <br> 
   
 ### ㆍ Interest<br> 
