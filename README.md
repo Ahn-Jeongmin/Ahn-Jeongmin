@@ -6,10 +6,12 @@
 
 
 ## 🌱 About me
-I'm Ahn Jeongmin, a senior student at CAU, Seoul. I'm majoring in English Language and Literature & Software Engineering. <br>
-I have a strong interest and passion for the challenges and solutions in ML and AI, and I aspire to bring new life values to the world through AI.<br>  
-I’m currently interested in...<br>
-→ Machine Learning & Deep Learning<br> 
+
+- Education
+→ Majoring English Literature and Language & Computer Science Engineering in ChungAng University, Seoul (2021.03 - 2025.08) <br> 
+→ 
+  
+- Interest
 → Natural Language Processing & Generative AI<br> 
 → Solutions for Hallucination & RAG & LoRA adapter<br> 
 
