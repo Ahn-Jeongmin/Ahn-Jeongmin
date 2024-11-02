@@ -7,11 +7,11 @@
 
 ## 🌱 About me
 
-### - Education<br> 
+### ㆍ Education<br> 
 → Majoring English Literature and Language & Computer Science Engineering in ChungAng University, Seoul (2021.03 - 2025.08) <br> 
 → <br> 
   
-### - Interest<br> 
+### ㆍ Interest<br> 
 → Natural Language Processing & Generative AI<br> 
 → Solutions for Hallucination & RAG & LoRA adapter<br> 
 
