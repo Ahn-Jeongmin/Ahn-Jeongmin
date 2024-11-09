@@ -9,14 +9,15 @@
 
 ### ㆍ Education<br> 
 #### ChungAng University, Seoul (2021.03 - 2025.08) <br> 
-Bachelor of Arts in English Literature and Language<br> 
-Bachelor of Science in Computer Science and Engineering<br> 
+BA in English Literature and Language<br> 
+BS in Computer Science and Engineering<br> 
 
 
   
 ### ㆍ Interest<br> 
-→ Natural Language Processing & Generative AI<br> 
-→ Solutions for Hallucination & RAG & LoRA adapter<br> 
+→ Natural Language Processing & Natural Language Understanding<br> 
+→ Generative AI, LLM <br> 
+→ Speech Recognition<br> 
 
 
 ## 🌱 Experiences & Awards
