@@ -29,10 +29,9 @@ BS in Computer Science and Engineering<br>
 🏆Naver Connect SW Education Completion Ceremony "Outstanding Mentoring Award"
 
 ## 🌱 DEV's log 
-- Tistory DEV Blog
-<a href="https://tingmins-swdeliveryservice.tistory.com/">
-        <img src="https://img.shields.io/badge/Tistory-eef1f4?style=for-the-badge&logo=Tistory&logoColor=EF3939"> 
-</a>
+<a href="https://tingmins-swdeliveryservice.tistory.com/"><img src="https://img.shields.io/badge/Tistory-eef1f4?style=for-the-badge&logo=Tistory&logoColor=EF3939"></a>
+         
+
 
 ##
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jordie0209)](https://solved.ac/jordie0209/)
