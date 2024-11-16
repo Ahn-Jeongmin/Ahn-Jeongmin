@@ -21,9 +21,9 @@ BS in Computer Science and Engineering<br>
 
 
 ## 🌱 Experiences & Awards
-- Tmaxsoft Internship Plaform Engineering Part AI Reseacher (2024.07 ~ 2024.08)
-- Naver AD Relevance Part Chatbot PT (2024.01 ~ 2024.03)
-- AIH Undergraduate Student Researcher (2023.03 ~ 2024.02)<br>
+- Tmaxsoft Internship Platform Engineering Part AI Reseacher (2024.07 ~ 2024.08)
+- Naver AD Relevance PD Part Chatbot PT (2024.01 ~ 2024.03)
+- AIH Undergraduate Student Researcher (2023.03 ~ 2024.02)
 
 🏆AIH 2024 Monthly Symposium Undergraduate Research Presentation Conference  "Outstanding Research Award"<br>
 🏆Naver Connect SW Education Completion Ceremony "Outstanding Mentoring Award"
