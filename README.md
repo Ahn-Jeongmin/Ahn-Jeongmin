@@ -8,7 +8,7 @@
 ## 🌱 About me
 
 ### ㆍ Education<br> 
-#### ChungAng University, Seoul (2021.03 - 2025.08) <br> 
+#### Chung-ang University, Seoul Campus (2021.03 - 2025.08) <br> 
 BA in English Literature and Language<br> 
 BS in Computer Science and Engineering<br> 
 
