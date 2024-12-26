@@ -15,9 +15,10 @@ BS in Computer Science and Engineering<br>
 
   
 ### ㆍ Interest<br> 
-→ Natural Language Processing & Natural Language Understanding<br> 
 → Generative AI, LLM <br> 
-→ Speech Recognition<br> 
+→ Natural Language Processing & Natural Language Understanding<br> 
+
+
 
 
 ## 🌱 Experiences & Awards
