@@ -1,8 +1,7 @@
 # This is Ahn Jeongmin's Git, Welcome!  ꙳ 𓂃 
 
-![Jeongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahn-Jeongmin&show_icons=true&theme=vue-dark)&nbsp;&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahn-Jeongmin&layout=compact&theme=vue-dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahn-Jeongmin&layout=compact&theme=vue-dark)
 
 
 ## 🌱 About me
@@ -38,6 +37,6 @@ BS in Computer Science and Engineering<br>
 
 ##
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jordie0209)](https://solved.ac/jordie0209/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=jordie0209&theme=warm)
+
 
 
