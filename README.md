@@ -7,9 +7,9 @@
 ## 🌱 About me
 
 ### ㆍ Education<br> 
-#### UNIST Graduate School (2025.09 - now) <br>
+#### → UNIST Graduate School (2025.09 - now) <br>
 MS in Artificial Intelligence
-#### Chung-ang University, Seoul Campus (2021.03 - 2025.08) <br> 
+#### → Chung-ang University, Seoul Campus (2021.03 - 2025.08) <br> 
 BA in English Literature and Language<br> 
 BS in Computer Science and Engineering<br> 
 
