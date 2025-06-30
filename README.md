@@ -1,7 +1,8 @@
 # This is Ahn Jeongmin's Git, Welcome!  ꙳ 𓂃 
 
+## 🌱 Profile
+<a href="https://drive.google.com/file/d/1yqgXhvCEQHxa7FXUXZrYS3_zNANOvOTP/view?usp=sharing"><img src="https://img.shields.io/badge/CV-eef1f4?style=for-the-badge&logo=notion&logoColor=003366"></a> <a href="https://tingmins-swdeliveryservice.tistory.com/"><img src="https://img.shields.io/badge/Tistory-eef1f4?style=for-the-badge&logo=Tistory&logoColor=EF3939"></a> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahn-Jeongmin&layout=compact&theme=vue-dark)
 
 
 ## 🌱 About me
@@ -29,13 +30,10 @@ BS in Computer Science and Engineering<br>
 🏆AIH 2024 Monthly Symposium Undergraduate Research Presentation Conference  "Outstanding Research Award"<br>
 🏆Naver Connect SW Education Completion Ceremony "Outstanding Mentoring Award"
 
-## 🌱 DEV's log 
-<a href="https://tingmins-swdeliveryservice.tistory.com/"><img src="https://img.shields.io/badge/Tistory-eef1f4?style=for-the-badge&logo=Tistory&logoColor=EF3939"></a>
-         
-
 
 ##
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jordie0209)](https://solved.ac/jordie0209/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jordie0209)](https://solved.ac/jordie0209/)          
+
 
 
 
