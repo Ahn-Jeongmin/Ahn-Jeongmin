@@ -1,7 +1,7 @@
 # This is Ahn Jeongmin's Git, Welcome!  ꙳ 𓂃 
 
 ## 🌱 Profile
-<a href="https://drive.google.com/file/d/1yqgXhvCEQHxa7FXUXZrYS3_zNANOvOTP/view?usp=sharing"><img src="https://img.shields.io/badge/CV-eef1f4?style=for-the-badge&logo=notion&logoColor=003366"></a> <a href="https://tingmins-swdeliveryservice.tistory.com/"><img src="https://img.shields.io/badge/Tistory-eef1f4?style=for-the-badge&logo=Tistory&logoColor=EF3939"></a> 
+<a href="https://drive.google.com/file/d/19wv5zpwECJPRv7WPfAhp1Cw3IFx3a_Ke/view?usp=sharing"><img src="https://img.shields.io/badge/CV-eef1f4?style=for-the-badge&logo=notion&logoColor=003366"></a> <a href="https://tingmins-swdeliveryservice.tistory.com/"><img src="https://img.shields.io/badge/Tistory-eef1f4?style=for-the-badge&logo=Tistory&logoColor=EF3939"></a> 
 
 
 
