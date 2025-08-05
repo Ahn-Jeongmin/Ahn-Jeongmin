@@ -1,11 +1,9 @@
-# This is Ahn Jeongmin's Git, Welcome!  ꙳ 𓂃 
-
-## 🌱 Profile
+# 🌱 Profile
 <a href="https://drive.google.com/file/d/19wv5zpwECJPRv7WPfAhp1Cw3IFx3a_Ke/view?usp=sharing"><img src="https://img.shields.io/badge/CV-eef1f4?style=for-the-badge&logo=notion&logoColor=003366"></a> <a href="https://tingmins-swdeliveryservice.tistory.com/"><img src="https://img.shields.io/badge/Tistory-eef1f4?style=for-the-badge&logo=Tistory&logoColor=EF3939"></a> 
 
 
 
-## 🌱 About me
+# 🌱 About me
 _🗣️  "I am interested in studying NLP and LLM, especially in parameter efficient learning and model merging."_  
 
 ### ㆍ Education
@@ -22,7 +20,7 @@ BS in Computer Science and Engineering<br>
 
 
 
-## 🌱 Experiences & Awards
+# 🌱 Experiences & Awards
 - Tmaxsoft Internship Platform Engineering Part AI Reseacher (2024.07 ~ 2024.08)
 - Naver AD Relevance PD Part Chatbot PT (2024.01 ~ 2024.03)
 - AIH Undergraduate Student Researcher (2023.03 ~ 2024.02)
@@ -31,7 +29,7 @@ BS in Computer Science and Engineering<br>
 🏆Naver Connect SW Education Completion Ceremony "Outstanding Mentoring Award"
 
 
-##
+#
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jordie0209)](https://solved.ac/jordie0209/)          
 
 
