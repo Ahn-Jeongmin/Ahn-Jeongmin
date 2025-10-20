@@ -1,6 +1,6 @@
 
 # 🌱 About me
-_🗣️  "I am interested in studying NLP and LLM, especially in parameter efficient learning and model merging."_  
+_🗣️  "I am interested in studying NLP and LLM, especially in PEFT, Model Merging and AI Agents."_  
 
 ### ㆍ Education
 #### → UNIST Graduate School (2025.09 - now) <br>
